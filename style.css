@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Angst";  
-  src: url("/font/AngstVF.ttf") format("truetype"); 
+  src: url("font/AngstVF.ttf") format("truetype"); 
   font-style: normal; 
   font-weight: normal;
    }
